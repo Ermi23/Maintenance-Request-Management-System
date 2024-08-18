@@ -1,0 +1,33 @@
+body{
+    background-color: ;
+    font-family: 'Times New Roman', Times, serif;
+}
+label{
+    color: black;
+}
+#text{
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 14px;
+    border: 4;
+    width: 100%;
+    color: #000000;
+}
+#message{
+    outline: none;
+    border: 6;
+    padding: 10px 0px 0px 15px;
+    font-size: 16px;
+    color: #000000;
+    border-radius: 5px;
+    width: 100%;
+}
+h2{
+    color: blue;
+    font-family: sans-serif;
+}
+h5{
+    color: blue;
+    font-family: sans-serif;
+}

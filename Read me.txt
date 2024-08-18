@@ -1,0 +1,28 @@
+welcome to maintenance request management system 
+   1. the database is on project database folder
+
+Login user name and password
+
+*Adminstrator Login
+=>username- admin@gmail.com
+=>password- admin123
+
+**staff page
+=>username- dani@gmail.com
+=>password- dani123
+
+***experthead
+=>username- bisre@gmail.com
+=>password- bisre123
+
+****experts
+=>username- dave@gmail.com
+=>password- dave123
+
+*****storemanager
+=>username- belay@gmail.com
+=>password- belay123
+
+
+
+2023 GC
